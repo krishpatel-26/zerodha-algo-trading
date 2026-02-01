@@ -89,4 +89,3 @@ Create virtual environment (optional):
 ```bash
 python -m venv venv
 venv\Scripts\activate
-
